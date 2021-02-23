@@ -1,0 +1,62 @@
+@import './normalize.scss';
+@import './variables.scss';
+
+body {
+  @include text-style-text-base;
+}
+
+.App {
+  background-color: $color-metal-05;
+  color: $color-metal-90;
+}
+.App-header {
+  background-color: $color-brand-00;
+}
+
+.text-xxxxl {
+  @include text-style-text-xxxxl;
+}
+
+.text-xxxl {
+  @include text-style-text-xxxl;
+}
+
+.text-xxl {
+  @include text-style-text-xxl;
+}
+
+.text-xl {
+  @include text-style-text-xl;
+}
+
+.text-l {
+  @include text-style-text-l;
+}
+
+.text-m {
+  @include text-style-text-m;
+}
+
+.text-base {
+  @include text-style-text-base;
+}
+
+.text-s {
+  @include text-style-text-s;
+}
+
+.text-s-caps {
+  @include text-style-text-s-caps;
+}
+
+.text-xs {
+  @include text-style-text-xs;
+}
+
+.text-mono-base {
+  @include text-style-text-mono-base;
+}
+
+.text-mono-s {
+  @include text-style-text-mono-s;
+}
