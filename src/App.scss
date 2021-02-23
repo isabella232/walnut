@@ -7,11 +7,8 @@ body {
   color: map-get($map: $colors, $key: metal-90);
 }
 
-.App {
-  padding: 0 2rem;
-}
 .section {
-  padding: 2rem;
+  padding: 2rem 4rem;
   margin-bottom: 2rem;
 }
 .color-blocks {

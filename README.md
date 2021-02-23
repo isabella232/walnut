@@ -35,6 +35,7 @@ Let the surfaces be appropriate for the job to be done. Favor consistency over n
 #### Deploying
 
 `npm run deploy`
+
 This site is currently hosted on github pages.
 
 ## Credits

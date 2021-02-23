@@ -4,7 +4,7 @@ import './App.scss';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <header className="App-header section">
         <h1 className="text-xxxxl">Walnut</h1>
         <p className="text-l">This is a design system for software testing interfaces.</p>
       </header>
