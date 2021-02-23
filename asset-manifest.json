@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/walnut/static/css/main.bbe93a5c.chunk.css",
+    "main.js": "/walnut/static/js/main.86c4b529.chunk.js",
+    "main.js.map": "/walnut/static/js/main.86c4b529.chunk.js.map",
+    "runtime-main.js": "/walnut/static/js/runtime-main.c0e34d43.js",
+    "runtime-main.js.map": "/walnut/static/js/runtime-main.c0e34d43.js.map",
+    "static/js/2.159fded0.chunk.js": "/walnut/static/js/2.159fded0.chunk.js",
+    "static/js/2.159fded0.chunk.js.map": "/walnut/static/js/2.159fded0.chunk.js.map",
+    "static/js/3.7bd6962c.chunk.js": "/walnut/static/js/3.7bd6962c.chunk.js",
+    "static/js/3.7bd6962c.chunk.js.map": "/walnut/static/js/3.7bd6962c.chunk.js.map",
+    "index.html": "/walnut/index.html",
+    "static/css/main.bbe93a5c.chunk.css.map": "/walnut/static/css/main.bbe93a5c.chunk.css.map",
+    "static/js/2.159fded0.chunk.js.LICENSE.txt": "/walnut/static/js/2.159fded0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0e34d43.js",
+    "static/js/2.159fded0.chunk.js",
+    "static/css/main.bbe93a5c.chunk.css",
+    "static/js/main.86c4b529.chunk.js"
+  ]
+}
