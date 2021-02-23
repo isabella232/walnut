@@ -32,6 +32,11 @@ Let the surfaces be appropriate for the job to be done. Favor consistency over n
 
 `yarn build`
 
+#### Deploying
+
+`npm run deploy`
+This site is currently hosted on github pages.
+
 ## Credits
 
 This was put together with [Create React App](https://facebook.github.io/create-react-app). It uses `typescript` and `sass`.
