@@ -3,8 +3,9 @@
 
 body {
   @include text-style-text-base;
-  background-color: map-get($map: $colors, $key: metal-05);
-  color: map-get($map: $colors, $key: metal-90);
+  background-color: $metal-05;
+  color: metal-90;
+  line-height: $lh-default;
 }
 
 .section {
@@ -24,7 +25,6 @@ body {
 }
 .type {
   margin-bottom: 1rem;
-  line-height: 1.5;
 }
 
 .text-xxxxl {
